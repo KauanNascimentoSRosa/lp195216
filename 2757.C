@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Kauan Nascimento Souza Rosa
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/2757
+Data        : 13/04/2026
+Objetivo    : Escrever três números normalmente, com dez caracteres preenchidos com espaços anterior e posteriormente, e preenchidos com zeros anteriormente.
+Aprendizado : Como as impressões variam com a utilização de números dentro de "%d".
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int main()
