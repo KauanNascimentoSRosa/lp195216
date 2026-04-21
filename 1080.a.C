@@ -4,8 +4,8 @@ Nome        : Kauan Nascimento Souza Rosa
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1080
 Data        : 21/04/2026
-Objetivo    : Ler 100 números, indicar o maior e sua posição.
-Aprendizado : Como ler 100 números, indicar o maior e a posição uitlizando "for" para repetir a avaliação até quando necessário. 
+Objetivo    : Ler 100 números, indicar o maior e sua posição sem a utilização de vetor.
+Aprendizado : Como ler 100 números, indicar o maior e a posição uitlizando "for" para repetir a avaliação até quando necessário, e ler um valor e ignorá-lo, se não convém. 
 -------------------------------------------------------------------------- */
 
 #include <stdio.h>
