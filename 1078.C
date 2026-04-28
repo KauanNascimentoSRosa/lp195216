@@ -10,9 +10,7 @@ int main() {
     if (N > 2 && N < 1000){
         for (i = 0; i < 10; i++){
             R[i] = (i + 1) * N;
-            printf ("%d", i + 1);
-            printf (" x %d", N);
-            printf (" = %d\n", R[i]);
+            printf ("%d x %d = %d\n", i + 1, N, R[i]);
         }
     }
     return 0;
