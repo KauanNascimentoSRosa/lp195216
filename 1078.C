@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Kauan Nascimento Souza Rosa
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1078
+Data        : 28/04/2026
+Objetivo    : Escrever a tabuada de um número entre 2 e 1000.
+Aprendizado : Utilização de vetores para guardar os resultados.
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <stdlib.h>
  
