@@ -5,7 +5,7 @@ Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1253
 Data        : 03/05/2026
 Objetivo    : Decifrar um código modificando as letras de acordo com a sua posição no alfabeto.
-Aprendizado : Utilização de fgets e getchar para ler as strings do código não decifrado e retornar uma string com o código decifrado. 
+Aprendizado : Utilização de fgets para ler as strings do código não decifrado e getchar para auxiliar o fgets com a retirada do enter - \n. 
 -------------------------------------------------------------------------- */
 
 #include <stdio.h>
