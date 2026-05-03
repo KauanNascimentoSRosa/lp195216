@@ -5,11 +5,11 @@
 int main (){
     
     int i, d;
-    char L[50];
+    char L[51];
     
     d = 0;
     
-    fgets (L, 50, stdin);
+    fgets (L, 51, stdin);
     
     for (i = 0; L[i] != '\0'; i++){
         if (d % 2 == 0){
