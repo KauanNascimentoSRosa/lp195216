@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Kauan Nascimento Souza Rosa
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1234
+Data        : 03/05/2026
+Objetivo    : Fazer uma sequência alterando, em sequência, as letras maiúsculas e minúsculas.
+Aprendizado : Uso de tabela ASCII para alternar entre maiúsculo e minúsculo. 
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
