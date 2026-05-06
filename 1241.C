@@ -5,7 +5,7 @@ Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1241
 Data        : 05/05/2026
 Objetivo    : Analisar se o número B se encaixa no final do número A.
-Aprendizado : Utilização de strlen para auxiliar o início da comparação. 
+Aprendizado : Declaração de char e utilização de strlen para auxiliar na comparação entre os números. 
 -------------------------------------------------------------------------- */
 
 #include <stdio.h>
