@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Kauan Nascimento Souza Rosa
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1241
+Data        : 05/05/2026
+Objetivo    : Analisar se o número B se encaixa no final do número A.
+Aprendizado : Utilização de strlen para auxiliar o início da comparação. 
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
