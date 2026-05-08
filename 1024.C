@@ -5,7 +5,7 @@ Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1024
 Data        : 08/05/2026
 Objetivo    : Criptografar mengasem deslocando letras 3 posições para a direita, inverter a linha e deslocar uma posição para a esquerda dos caracteres que estão a partir da metade em diante.
-Aprendizado : Utilização do auxiliar para guardar caracter e utilização do if para não ler o \n.
+Aprendizado : Utilização do auxiliar para guardar caracter e utilização do if para, ao invés de ler o \n, encerrar a string..
 -------------------------------------------------------------------------- */
 
 #include <stdio.h>
