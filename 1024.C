@@ -31,7 +31,7 @@ int main () {
                 M[lenM - 1 - j] = aux;
         }
         for (j = lenM / 2; j < lenM; j++){
-            M[j]++;
+            M[j]--;
         }
         printf ("%s\n", M);
     }
