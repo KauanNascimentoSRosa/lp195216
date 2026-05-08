@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Kauan Nascimento Souza Rosa
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1024
+Data        : 08/05/2026
+Objetivo    : Criptografar mengasem deslocando letras 3 posições para a direita, inverter a linha e deslocar uma posição para a esquerda dos caracteres que estão a partir da metade em diante.
+Aprendizado : Utilização do auxiliar para guardar caracter e utilização do if para não ler o \n.
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
