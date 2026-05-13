@@ -5,7 +5,7 @@ Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1534
 Data        : 12/05/2026
 Objetivo    : Criar uma matriz, de tamanho NxN, em que a diagonal da esquerda para a direita possui o número 1, a outra diagonal possui o número 2, e os demais lugares o número 3.
-Aprendizado : Criação de matriz e inserção de números em cada espaço com o auxílio do for. 
+Aprendizado : Criação de matriz e inserção de números em cada espaço com o auxílio do for e dos operadores []. 
 -------------------------------------------------------------------------- */
 
 #include <stdio.h>
