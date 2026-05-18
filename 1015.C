@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Kauan Nascimento Souza Rosa
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1015
+Data        : 18/05/2026
+Objetivo    : Calcular a distância entre dois pontos no plano.
+Aprendizado : Utilização de função para realizar uma conta e de sqrt para obter a raiz quadrada de um número.
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <math.h>
 
