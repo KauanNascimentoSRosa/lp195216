@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Kauan Nascimento Souza Rosa
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1168
+Data        : 23/05/2026
+Objetivo    : Indicar quantos leds serão necessários para gerar o número digitado.
+Aprendizado : Como usar switch com a mesma função do if. 
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
