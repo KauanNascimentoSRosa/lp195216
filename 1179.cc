@@ -5,7 +5,7 @@ Linguagem   : C++
 Problema    : https://judge.beecrowd.com/pt/problems/view/1179
 Data        : 02/06/2026
 Objetivo    : Ler 15 números, indicar os primeiros cinco pares, os cinco ímpares em sequência, e os que restaram, sendo primeiro os ímpares.
-Aprendizado : Substituir scanf e printf por cin e cout, respectivamente.
+Aprendizado : Substituir scanf, printf e \n por cin, cout e endl, respectivamente.
 -------------------------------------------------------------------------- */
 
 #include <iostream>
@@ -23,7 +23,7 @@ int main()
             
             if (j == 5){
                 for (m = 0; m < 5; m++){
-                    cout << "par[" << m << "] = " << P[m] << "\n";
+                    cout << "par[" << m << "] = " << P[m] << endl;
                 }
                 
                 j = 0;
@@ -36,7 +36,7 @@ int main()
             
             if (k == 5){
                 for (n = 0; n < 5; n++){
-                    cout << "impar[" << n << "] = " << I[n] << "\n";
+                    cout << "impar[" << n << "] = " << I[n] << endl;
                 }
                 
                 k = 0;
@@ -44,11 +44,11 @@ int main()
         }
     }
     for (n = 0; n < k; n++){
-        cout << "impar[" << n << "] = " << I[n] << "\n";
+        cout << "impar[" << n << "] = " << I[n] << endl;
     }
     
     for (m = 0; m < j; m++){
-        cout << "par[" << m << "] = " << P[m] << "\n";
+        cout << "par[" << m << "] = " << P[m] << endl;
     }
         
     return 0;
