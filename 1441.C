@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Kauan Nascimento Souza Rosa
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1441
+Data        : 11/06/2026
+Objetivo    : Representar o maior número da sequência de granizo.
+Aprendizado : Repetir chamada dentro de função fora do int main.
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int maior (int n){
