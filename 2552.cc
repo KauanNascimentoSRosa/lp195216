@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Kauan Nascimento Souza Rosa
+Linguagem   : C++
+Problema    : https://judge.beecrowd.com/pt/problems/view/2552
+Data        : 22/06/2026
+Objetivo    : Fazer uma matriz representando se tem pão de queijo no local ou se não tiver falar quantos lugares ao redor possuem.
+Aprendizado : Acesso a regiões específicas da matriz e resolução por partes.
+-------------------------------------------------------------------------- */
+
 #include <iostream>
 using namespace std;
 
@@ -161,7 +171,7 @@ int main(){
                         }
                         M[i][j] = S;
                     }
-                }
+                } //caso especial 1
 
                 if (L != 1 && C == 1){
                     S = 0;
@@ -188,7 +198,7 @@ int main(){
                         }
                         M[i][j] = S;
                     }
-                }
+                } //caso especial 2
             }
         }
         for (i = 0; i < L; i++){
