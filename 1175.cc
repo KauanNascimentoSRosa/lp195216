@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Kauan Nascimento Souza Rosa
+Linguagem   : C++
+Problema    : https://judge.beecrowd.com/pt/problems/view/1175
+Data        : 22/06/2026
+Objetivo    : Ler 20 números de um vetor e inverter a posição deles.
+Aprendizado : Utilização de auxiliar e outra variável para inverter a ordem.
+-------------------------------------------------------------------------- */
+
 #include <iostream>
 using namespace std;
 
