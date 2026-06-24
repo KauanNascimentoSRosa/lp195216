@@ -4,7 +4,7 @@ Nome        : Kauan Nascimento Souza Rosa
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1383
 Data        : 17/06/2026
-Objetivo    : Verificar se um jogo de sudoku é permitido ou não
+Objetivo    : Verificar se um jogo de sudoku é permitido ou não.
 Aprendizado : Verificação das linhas, colunas e blocos com for, soma e multiplicação. 
 -------------------------------------------------------------------------- */
 
