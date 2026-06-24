@@ -9,10 +9,9 @@ Aprendizado : Express√£o para eliminar uma pessoa do vetor de acordo com a posi√
 -------------------------------------------------------------------------- */
 
 #include <iostream>
-int V[10000];
 using namespace std;
 int josephus (int P, int S){
-    int C = P, i, j, p = 0;
+    int V[10000], C = P, i, j, p = 0;
 
     for (i = 0; i < P; i++){
         V[i] = i + 1;
