@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Kauan Nascimento Souza Rosa
+Linguagem   : C++
+Problema    : https://judge.beecrowd.com/pt/problems/view/1031
+Data        : 24/06/2026
+Objetivo    : Ler quantas regiões contém e revelar o número de saltos para a região 13 ser a única sem desligamento de energia.
+Aprendizado : Recursão para caso de erro até achar um valor conveniente.
+-------------------------------------------------------------------------- */
+
 #include <iostream>
 using namespace std;
 
