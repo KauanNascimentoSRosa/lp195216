@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Kauan Nascimento Souza Rosa
+Linguagem   : C++
+Problema    : https://judge.beecrowd.com/pt/problems/view/1030
+Data        : 24/06/2026
+Objetivo    : Ler quantas pessoas têm, quantas pulam a cada salto e descobrir a última viva.
+Aprendizado : Expressão para eliminar uma pessoa do vetor.
+-------------------------------------------------------------------------- */
+
 #include <iostream>
 int V[10000];
 using namespace std;
