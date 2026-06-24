@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Kauan Nascimento Souza Rosa
+Linguagem   : C++
+Problema    : Não está no beecrowd (jogo.cc).
+Data        : 24/06/2026
+Objetivo    : Ler um arquivo com uma matriz 9x9 e iniciar um jogo de sudoku com ela.
+Aprendizado : Como ler arquivos, seus controles e validação a partir da jogada do usuário.
+-------------------------------------------------------------------------- */
+
 #include <iostream>
 using namespace std;
 
@@ -92,8 +102,6 @@ int main()
 
         cout << "Número (1-9): ";
         cin >> N;
-
-
 
         if (L < 0 || L > 8 || C < 0 || C > 8){
             cout << "Posição inválida. Tente novamente.\n";
