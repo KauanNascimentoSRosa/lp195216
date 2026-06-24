@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Kauan Nascimento Souza Rosa
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1258
+Data        : 03/05/2026
+Objetivo    : Organizar N listas em ordem crescente de cor, do menor ao maior tamanho e em ordem alfabética crescente.
+Aprendizado : Uso de funções para determinar a ordem. 
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
