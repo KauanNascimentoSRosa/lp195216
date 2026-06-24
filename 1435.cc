@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Kauan Nascimento Souza Rosa
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1435
+Data        : 24/06/2026
+Objetivo    : Fazer uma matriz quadrada em que os números aumentam de acordo com a distância deles com as extremidades.
+Aprendizado : Utilização de void para calcular a matriz. 
+-------------------------------------------------------------------------- */
+
 #include <iostream>
 using namespace std;
 
