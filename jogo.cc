@@ -9,6 +9,7 @@ Aprendizado : Como ler arquivos, seus controles e validação a partir da jogada
 -------------------------------------------------------------------------- */
 
 #include <iostream>
+#include <cstdio>
 using namespace std;
 
 int V[9][9];
